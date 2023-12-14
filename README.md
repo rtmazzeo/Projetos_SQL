@@ -3,6 +3,8 @@ Welcome to Projetos_SQL, your hub for a collection of SQL projects meticulously 
 
 🚀 Let's build and refine together in the world of SQL! 🚀
 
+### Projects:
+
 Project that focused on the creation of a database for the context of a workshop (developed in MySQL).
 * :link: [Link para bd_oficina](https://github.com/rtmazzeo/Projetos_SQL/tree/main/bd_oficina)
 
