@@ -1,0 +1,1 @@
+arquivo para criar o diretorio bd_clothing_store
