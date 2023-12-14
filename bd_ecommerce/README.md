@@ -1,4 +1,4 @@
-# projeto-ecommerce
+# bd_ecommerce
 Construindo seu Primeiro Projeto Lógico de Banco de Dados
 
 ## Tabela Cliente:
